@@ -1,0 +1,12 @@
+C:\Users\morco\OneDrive\Desktop\APW\Control.FP\Control.FP.Core\bin\Debug\net6.0\Control.FP.Core.deps.json
+C:\Users\morco\OneDrive\Desktop\APW\Control.FP\Control.FP.Core\bin\Debug\net6.0\Control.FP.Core.dll
+C:\Users\morco\OneDrive\Desktop\APW\Control.FP\Control.FP.Core\bin\Debug\net6.0\Control.FP.Core.pdb
+C:\Users\morco\OneDrive\Desktop\APW\Control.FP\Control.FP.Core\obj\Debug\net6.0\Control.FP.Core.csproj.AssemblyReference.cache
+C:\Users\morco\OneDrive\Desktop\APW\Control.FP\Control.FP.Core\obj\Debug\net6.0\Control.FP.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morco\OneDrive\Desktop\APW\Control.FP\Control.FP.Core\obj\Debug\net6.0\Control.FP.Core.AssemblyInfoInputs.cache
+C:\Users\morco\OneDrive\Desktop\APW\Control.FP\Control.FP.Core\obj\Debug\net6.0\Control.FP.Core.AssemblyInfo.cs
+C:\Users\morco\OneDrive\Desktop\APW\Control.FP\Control.FP.Core\obj\Debug\net6.0\Control.FP.Core.csproj.CoreCompileInputs.cache
+C:\Users\morco\OneDrive\Desktop\APW\Control.FP\Control.FP.Core\obj\Debug\net6.0\Control.FP.Core.dll
+C:\Users\morco\OneDrive\Desktop\APW\Control.FP\Control.FP.Core\obj\Debug\net6.0\refint\Control.FP.Core.dll
+C:\Users\morco\OneDrive\Desktop\APW\Control.FP\Control.FP.Core\obj\Debug\net6.0\Control.FP.Core.pdb
+C:\Users\morco\OneDrive\Desktop\APW\Control.FP\Control.FP.Core\obj\Debug\net6.0\ref\Control.FP.Core.dll
