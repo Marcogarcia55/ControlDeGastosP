@@ -10,8 +10,3 @@ public class EntitiyBase
     public DateTime UpdateDate { get; set; }
     
 }
-
-public class Test1 : EntitiyBase
-{
-        
-}
